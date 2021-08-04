@@ -1,4 +1,349 @@
+########################
+
+ CANAIS ABERTOS
+
+#######################
+
+
+
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT Interior SP
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Serra Dourada - (GO)
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Cidade Verde - (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT - TV Difusora (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT SC
+http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO",RecordTV- TV Sucesso (GO)
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO",RecordTV- TV Tropical (RN)
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png" group-title="CANAL ABERTO", Record - TV Gazeta (MT)
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recordtv.png"  group-title="CANAL ABERTO",RecordTV - TV Miramar - Angola
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL ABERTO",Band - RBA TV (PA)
+http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAL ABERTO", RedeTV! (SP)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvarapuan.png" group-title="CANAL ABERTO",RedeTV! - TV Arapuan (PB)
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetvrondonia.png" group-title="CANAL ABERTO",RedeTV! TV - Rondônia (RO)
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAL ABERTO", TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO",Record News ES
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="CANAL ABERTO",Record News - TV Guará (MA)
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvitarare.png" group-title="CANAL ABERTO",TV Cultura- TV Itararé (PE)
+http://177.73.84.49/hls/live/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvbaiana.png" group-title="CANAL ABERTO",TV Cultura - TV Baiana (BA)
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/atividade.png" group-title="CANAL ABERTO",TV Cultura - TV Atividade (MG)
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/redeatividade/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://www.tvbrasilcentral.com.br/IMAGENS/logotbc.png" group-title="CANAL ABERTO",TV Cultura - TBC (GO)
+http://rsync.com.br:8081/rtsp/tbc/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/c/c2/20160712014607%21Logotipo_da_TV_Nova_Nordeste.png" group-title="CANAL ABERTO",TV Cultura - Nova Nordeste (PE)
+http://cdn.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo02TVBRASIL.png" group-title="CANAL ABERTO", TV Brasil Internacional
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redebrasil.png" group-title="CANAL ABERTO", Rede Brasil
+https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvmarajoara.png" group-title="CANAL ABERTO", Rede Brasil - TV Marajoara (PA)
+http://video01.tvdigitalhd.org/tv31966/tv31966/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redebrasil.png" group-title="CANAL ABERTO",Rede Brasil - TV Brusque (SC)
+http://wse5.player.tv.br:1935/aovivo1/aovivo1/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="CANAL ABERTO", TV Diário - Ceará
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?KeltecMPIPTV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="CANAL ABERTO", HIT Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-heart-tv.png" group-title="CANAL ABERTO", Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?www.tecnotv.info?hd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="CANAL ABERTO", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/capital.png" group-title="CANAL ABERTO", Capital TiVù SD
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" group-title="CANAL ABERTO", Retrô
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/uhPewlD.png" group-title="CANAL ABERTO", Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="CANAL ABERTO",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/5d0azy3wd/Rede_Fam_lia.png" group-title="CANAL ABERTO", Rede Família
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvuniao.png" group-title="CANAL ABERTO", TV União - Ceará
+http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8?wowzasessionid=1843050145
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logos/redemeionorte.png" group-title="CANAL ABERTO", Meio Norte - Piauí
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvjornallimeira.png" group-title="CANAL ABERTO", TV Jornal - Limeira SP
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/hHaH74V.png" group-title="CANAL ABERTO", Amazon Sat
+http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s16.postimg.org/ovcr5gj79/TV_Guarany.png" group-title="CANAL ABERTO", TV Guarani - WebTV
+http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/toptv.png" group-title="CANAL ABERTO",TOP TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="CANAL ABERTO", TV Escola
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="CANAL ABERTO", TVE Bahia - TV Brasil
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="CANAL ABERTO", TV Evangelizar
+http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/cancaonova.png" group-title="CANAL ABERTO", Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/redevida.gif" group-title="CANAL ABERTO", Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="CANAL ABERTO", Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/m7MQIPJ.png" group-title="CANAL ABERTO", Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/l2Fy8cv.png" group-title="CANAL ABERTO", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="CANAL ABERTO", Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png" group-title="CANAL ABERTO", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/aiNRaga.png" group-title="CANAL ABERTO", IURD TV
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redegospel.png" group-title="CANAL ABERTO",Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://www.smilinguido.com.br/celular/images/smilinguido.png" group-title="CANAL ABERTO", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO",Futura - TVUSC
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/futura.png" group-title="CANAL ABERTO",Futura - TVUP
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvaperipe.png" group-title="CANAL ABERTO",TV Aperipê (SE)
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/eparana.png" group-title="CANAL ABERTO",eParaná (PR)
+http://200.189.113.201/hls/tve.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/camara.png" group-title="CANAL ABERTO",TV Câmara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/NBR.png" group-title="CANAL ABERTO",NBR (DF)
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redenew.png" group-title="CANAL ABERTO",Rede New
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/upload/1471439396922.jpg" group-title="CANAL ABERTO", Radio Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="CANAL ABERTO",Virgin TV
+http://fms.105.net:1935/live/virgin2%20/index.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://lut.im/AJ7bxR6dq6/B041Wsxo9yZayY64.png" group-title="CANAL ABERTO",SescTV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://s30.postimg.org/6gazun6wh/logorodape.png" group-title="CANAL ABERTO",Rede Cultura do Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/617061411483701248/rTn6wrcV.png" group-title="CANAL ABERTO",TV Transamérica (PR)
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/central.png" group-title="CANAL ABERTO",Central TV (PR)
+https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Rede-Fonte.png" group-title="CANAL ABERTO", FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Puc-TV.jpg" group-title="CANAL ABERTO", Puc TV (GO)
+http://flash.softhost.com.br:1935/pucgoias/aovivo/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TBO.png" group-title="CANAL ABERTO", TBO (GO)
+http://173.236.10.10:1935/tboanapolis/tboanapolis/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvmar.png" group-title="CANAL ABERTO",TV Mar (AL)
+http://209.126.127.101:1935/tvmar/tvmar/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvmaceio.jpg" group-title="CANAL ABERTO",TV Maceió (AL)
+https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvriolargo.png" group-title="CANAL ABERTO",TV Rio Largo (AL)
+http://stmv4.srvstm.com/tvriolargo/tvriolargo/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvacaradabhia.png" group-title="CANAL ABERTO",TV A Cara da Bahia
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/rbcsalvador.png" group-title="CANAL ABERTO",RBC Salvador
+http://stmv1.srvstm.com/alexandre3116/alexandre3116/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/governodabahia.png" group-title="CANAL ABERTO", TV Governo da Bahia
+http://streaming42.sitehosting.com.br:1935/xcfilmes/smil:xcfilmes.smil/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvjsid.png" group-title="CANAL ABERTO", TV Sjid (BA)
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TV_Assembleia_Ceará.png" group-title="CANAL ABERTO", TV Assembléia (CE)
+http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvverdevale.png" group-title="CANAL ABERTO", TV Verde Vale (CE)
+ttps://ssh101.com/m3u8/dyn/13verdevalelive13/index.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvacarati.jpg" group-title="CANAL ABERTO", Tv Aracati (CE)
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/allsports.png" group-title="CANAL ABERTO",All Sports (DF)
+https://5a0c3936c25c8.streamlock.net:1443/allsportstv/allsportstv/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvnbrasil.png" group-title="CANAL ABERTO", TVN Brasil (DF)
+http://wz6.dnip.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/radioesportesbrasilia.png" group-title="CANAL ABERTO", Esportes Brasília (DF)
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TVORIGEM.jpg" group-title="CANAL ABERTO", TV Origem (DF)
+http://stmv2.srvstm.com/jorsilei2749/jorsilei2749/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/logotvambiental1.png" group-title="CANAL ABERTO", TV Ambiental (ES)
+http://wse.transmissaodigital.com:1935/tvambiental/tvambiental/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/tvvitoria.png" group-title="CANAL ABERTO",TV Vitória - RecordTV (ES)
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvfeliz.png" group-title="CANAL ABERTO", TV Feliz (RN)
+https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn.smil/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/agitos.png" group-title="CANAL ABERTO", CN Agitos (RN)
+http://wsemedia.com:1935/cn01/cn01/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/viamorena.png" group-title="CANAL ABERTO",Via Morena
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvjapi.png" group-title="CANAL ABERTO",TV Japi
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png" group-title="CANAL ABERTO",TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvnailha.png" group-title="CANAL ABERTO",TV Na Ilha (filmes)
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/cinemais.jpg" group-title="CANAL ABERTO",Cine +
+https://live.sba1.com/hls-live/livecm/_definst_/liveevent/livestream.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/litoralsul.png" group-title="CANAL ABERTO",Litoral Sul (SC)
+http://cdn2.w7virtual.net:1935/live/canal20/canal20/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/TV_Alese.png" group-title="CANAL ABERTO",TV Alese (SE)
+http://digilab-live.hls.adaptive.level3.net/hls-live/digilablive-tvalese/_definst_/live/stream3.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvocultural.jpg" group-title="CANAL ABERTO",TV Ocultural (SP)
+https://cdn.jmvstream.com/live/hls/lv_826/LV826_q56cYjx1zN.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/plenitude.png" group-title="CANAL ABERTO",TV Plenitude (SP)
+http://site.paineldecontrole.info:1935/live/smil:plenitude.smil/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/santacecilia.png" group-title="CANAL ABERTO",TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/gospel.jpg" group-title="CANAL ABERTO",Gospel Movie TV
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/logo-mega-tv.png" group-title="CANAL ABERTO",MegaTV (SP)
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/horsebrasil.png" group-title="CANAL ABERTO",Horse Brasil Channel (SP)
+http://114544990.r.worldcdn.net/114544990/_definst_/horsebrasil2/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvitapetinga.png" group-title="CANAL ABERTO",TV Itapetinga (SP)
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/estrellas.png" group-title="CANAL ABERTO",Las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/chelseatv.png" group-title="CANAL ABERTO",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/realmadrid.png" group-title="CANAL ABERTO",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/now.png" group-title="CANAL ABERTO", NFL Now HD
+http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv-300x125.png" group-title="CANAL ABERTO", Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/1music.jpg" group-title="CANAL ABERTO", 1Music
+http://92.249.129.152/stream/1music.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="CANAL ABERTO",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/cbn.png" group-title="CANAL ABERTO",CBN SP 90.5 FM - ESTÚDIO AO VIVO
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8?KeltecMPIPTV
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Fm-o-dia-foto.jpg" group-title="CANAL ABERTO",FM O DIA 100.5 - ESTÚDIO AO VIVO
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8?KeltecMPIPTV
+
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://imgur.com/jnldoxk.jpg" ,ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1451380204.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://imgur.com/jnldoxk.jpg" ,ALL SPORTS 2
